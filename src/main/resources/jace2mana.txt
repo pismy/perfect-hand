@@ -1,0 +1,40 @@
+// Peasant - Jace Top flash
+
+
+// 60 Maindeck
+// 5 Artifact
+4 Sensei's Divining Top
+1 Helm of Awakening
+
+// 8 Creature
+4 Trinket Mage
+4 Etherium Sculptor
+
+// 4 Enchantment
+4 Jace's Erasure
+
+// 20 Instant
+4 Impulse
+4 Muddle the Mixture
+4 Anticipate
+4 Counterspell
+4 Mana Leak
+
+// 19 Land
+15 Island
+4 Desert
+
+// 4 Sorcery
+4 Preordain
+
+
+// 14 Sideboard
+// 2 Artifact
+SB: 2 Relic of Progenitus
+
+// 12 Instant
+SB: 4 Dispel
+SB: 4 Gigadrowse
+SB: 4 Echoing Truth
+
+

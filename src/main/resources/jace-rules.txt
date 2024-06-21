@@ -1,0 +1,21 @@
+# ============
+# === Matchers
+# ============
+<top>: [Sensei's Divining Top]
+<combo>: [Sensei's Divining Top] | [Helm of Awakening] | [Etherium Sculptor] | [Jace's Erasure]
+<tutor>: [Trinket Mage] | [Muddle the Mixture]
+<dig>: [Impulse] | [Anticipate]| [Preordain]
+<counter>: [Counterspell] | [Mana Leak] 
+<U>: [Island]
+
+
+
+# ======================
+# === Hand keeping rules
+# ======================
+
+<<top+dig>>: 2 <U> & <top> & <dig>
+<<top+combo>>: 2 <U> & <top> & 2 <combo>  
+# faut-il mettre 2 combo par ce que la toupie sera comptée aussi dans la catégorie combo ? ou 1 top & 1 combo cherchera bien deux cartes différentes ?
+<<combo+2dig>>: 2 <U> & <combo> & 2 <dig>
+<<2combo+dig>>: 2 <U> & 2 <combo> & <dig>
